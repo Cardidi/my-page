@@ -1,0 +1,17 @@
+baseURL = 'https://ca2didi.xyz/'
+languageCode = 'zh'
+title = 'Ca2D Pages'
+theme = "PaperMod"
+
+homeInfoParams:
+    Title = "Hi there \U0001F44B"
+    Content = "Welcome to my blog"
+
+socialIcons =
+    - name: twitter
+      uri: https://twitter.com/Ca2didi
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
