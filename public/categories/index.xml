@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Ca2D Pages</title>
+    <link>https://ca2didi.xyz/categories/</link>
+    <description>Recent content in Categories on Ca2D Pages</description>
+    <image>
+      <url>https://ca2didi.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ca2didi.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 09 Apr 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://ca2didi.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity客户端开发</title>
+      <link>https://ca2didi.xyz/categories/unity%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Sat, 09 Apr 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://ca2didi.xyz/categories/unity%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图形学与图形API</title>
+      <link>https://ca2didi.xyz/categories/%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E5%9B%BE%E5%BD%A2api/</link>
+      <pubDate>Wed, 27 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://ca2didi.xyz/categories/%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E5%9B%BE%E5%BD%A2api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>随笔</title>
+      <link>https://ca2didi.xyz/categories/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Sun, 01 Aug 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://ca2didi.xyz/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
