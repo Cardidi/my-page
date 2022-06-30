@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小故事 on Ca2D Pages</title>
+    <link>https://ca2didi.xyz/tags/%E5%B0%8F%E6%95%85%E4%BA%8B/</link>
+    <description>Recent content in 小故事 on Ca2D Pages</description>
+    <image>
+      <url>https://ca2didi.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ca2didi.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 01 Aug 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://ca2didi.xyz/tags/%E5%B0%8F%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我和我的三个父亲</title>
+      <link>https://ca2didi.xyz/posts/thoughts/my-fathers/</link>
+      <pubDate>Sun, 01 Aug 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://ca2didi.xyz/posts/thoughts/my-fathers/</guid>
+      <description>这是真的。</description>
+    </item>
+    
+    <item>
+      <title>我的一个同学和他的智障朋友</title>
+      <link>https://ca2didi.xyz/posts/thoughts/my-classmate-and-his-friend/</link>
+      <pubDate>Sun, 16 Aug 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ca2didi.xyz/posts/thoughts/my-classmate-and-his-friend/</guid>
+      <description>你觉得这个事是真的吗？</description>
+    </item>
+    
+  </channel>
+</rss>
