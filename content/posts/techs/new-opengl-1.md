@@ -5,7 +5,7 @@ description: "三角形的初体验"
 # weight: 1
 # aliases: ["/first"]
 tags: ["OpenGL"]
-categories: "图形学与图形API"
+categories: "技术"
 #showToc: true
 #TocOpen: false
 draft: false

@@ -5,7 +5,7 @@ description: "因为这玩意是真的好用……"
 # weight: 1
 # aliases: ["/first"]
 tags: ["Unity", "UniTask", "C#", "客户端开发", "异步"]
-categories: "Unity客户端开发"
+categories: "技术"
 #showToc: true
 #TocOpen: false
 draft: false

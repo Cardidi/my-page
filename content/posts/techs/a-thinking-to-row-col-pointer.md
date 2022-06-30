@@ -5,7 +5,7 @@ description: "其实还是教的不好惹的祸"
 # weight: 1
 # aliases: ["/first"]
 tags: ["C语言", "指针", "大学课程"]
-categories: "C/C++"
+categories: "技术"
 #showToc: true
 #TocOpen: false
 draft: false
