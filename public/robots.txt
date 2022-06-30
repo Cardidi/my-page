@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://ca2didi.xyz/sitemap.xml
