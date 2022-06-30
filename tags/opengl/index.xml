@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenGL on Ca2D Pages</title>
+    <link>https://ca2didi.xyz/tags/opengl/</link>
+    <description>Recent content in OpenGL on Ca2D Pages</description>
+    <image>
+      <url>https://ca2didi.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ca2didi.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 27 Oct 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://ca2didi.xyz/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenGL 学习笔记 1</title>
+      <link>https://ca2didi.xyz/posts/techs/new-opengl-1/</link>
+      <pubDate>Wed, 27 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://ca2didi.xyz/posts/techs/new-opengl-1/</guid>
+      <description>三角形的初体验</description>
+    </item>
+    
+  </channel>
+</rss>
