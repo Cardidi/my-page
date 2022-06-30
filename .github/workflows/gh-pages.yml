@@ -29,5 +29,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }} #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
-          PUBLISH_BRANCH: gh-pages
-          publish_dir: ./docs
+          publish_dir: ./public
